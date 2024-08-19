@@ -25,10 +25,18 @@ Rogério de Oliveira
 | **Aula** | **Conteúdo**                                               | **Dia** | **Dia da       Semana** |
 |:--------:|------------------------------------------------------------|---------|:-----------------------:|
 |     1    | **Apresentação**                                           | 05/ago  |           Seg           |
+|          | - [Apresentação e Ementa](https://github.com/Rogerio-mack/data-engineering/tree/main/Aula_01) | | |
 |     2    | **Engenharia de Dados**                                    | 07/ago  |           Qua           |
+|          | - [Fundamentos of Data Engineering](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A02_2.ipynb) | | |
+|          | - [Pandas: Easy EDA, grandes arquivos e pipeline](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A_02_PandasPipe.ipynb) | | |
+|          | - [Lab: Covid](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A_02_PandasPipe_lab.ipynb) | | |
 |          | **EDA Exploratory Data Analysis > Coleta**                 |         |                         |
 |     3    | Estatísticas, Visualização e Gráficos, Testes de Hipóteses | 14/ago  |           Qua           |
+|          | - [EDA: Exploratory Data Analysis](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A3_01_EDA.ipynb) | | |
+|          | - [EDA: Cases (em Python)](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A3_01_EDACases.ipynb) | | |
+|          | - [CRISP Alternatives](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A3_01_CRISPAlternatives.ipynb) | | |
 |     4    | LAB                                                        | 19/ago  |           Seg           |
+|          | - [Lab: EDA FOSP](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A3_01_EDA_Lab.ipynb) | | |
 |          | **Coleta > Armazenamento**                                 |         |                         |
 |     5    | API, Web Scrapping, Streaming                              | 21/ago  |           Qua           |
 |     6    | SQL & NoSQL                                                | 28/ago  |           Qua           |
