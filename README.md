@@ -1,4 +1,4 @@
-<img src="https://github.com/Rogerio-mack/data-engineering/blob/main/mack_logo.png?raw=true" height="100" align="right"/></a>
+![image](https://github.com/user-attachments/assets/771bcd75-3c58-4542-abf6-c6fabacad170)![image](https://github.com/user-attachments/assets/74a89e57-f8d9-486b-95c0-989633aa9091)<img src="https://github.com/Rogerio-mack/data-engineering/blob/main/mack_logo.png?raw=true" height="100" align="right"/></a>
 
 <br>
 <br>
@@ -44,7 +44,7 @@ Rogério de Oliveira
 |          | - [CRISP Alternatives](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A3_01_CRISPAlternatives.ipynb) | | |
 |          | - [*Extra: Testes de Hipótese*](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A3_Extra_Htestes_resolvidos.ipynb) | | |
 |     4    | LAB                                                        | 19/ago  |           Seg           |
-|          | - [Lab: EDA FOSP](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A3_01_EDA_Lab.ipynb) | | |
+|          | - [Lab: EDA FOSP](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A3_04EDA_Lab.ipynb) | | |
 |          | **Coleta > Armazenamento**                                 |         |                         |
 |     5    | API, Web Scrapping, Streaming                              | 21/ago  |           Qua           |
 |     6    | SQL & NoSQL                                                | 28/ago  |           Qua           |
