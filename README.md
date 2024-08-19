@@ -42,6 +42,7 @@ Rogério de Oliveira
 |          | - [EDA: Exploratory Data Analysis](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A3_01_EDA.ipynb) | | |
 |          | - [EDA: Cases (em Python)](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A3_01_EDACases.ipynb) | | |
 |          | - [CRISP Alternatives](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A3_01_CRISPAlternatives.ipynb) | | |
+|          | - [*Extra: Testes de Hipótese*](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A3_Extra_Htestes_resolvidos.ipynb) | | |
 |     4    | LAB                                                        | 19/ago  |           Seg           |
 |          | - [Lab: EDA FOSP](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A3_01_EDA_Lab.ipynb) | | |
 |          | **Coleta > Armazenamento**                                 |         |                         |
