@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/771bcd75-3c58-4542-abf6-c6fabacad170)![image](https://github.com/user-attachments/assets/74a89e57-f8d9-486b-95c0-989633aa9091)<img src="https://github.com/Rogerio-mack/data-engineering/blob/main/mack_logo.png?raw=true" height="100" align="right"/></a>
+src="https://github.com/Rogerio-mack/data-engineering/blob/main/mack_logo.png?raw=true" height="100" align="right"/></a>
 
 <br>
 <br>
