@@ -1,4 +1,4 @@
-src="https://github.com/Rogerio-mack/data-engineering/blob/main/mack_logo.png?raw=true" height="100" align="right"/></a>
+<img src="https://github.com/Rogerio-mack/data-engineering/blob/main/mack_logo.png?raw=true" height="100" align="right"/></a>
 
 <br>
 <br>
