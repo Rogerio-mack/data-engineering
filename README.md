@@ -19,13 +19,14 @@ Rogério de Oliveira
 
 
 <br>
-
+https://github.com/Rogerio-mack/data-engineering/blob/main/Aula_02/cloudskillsboost.md
 
 ### Programação preliminar
 | **Aula** | **Conteúdo**                                               | **Dia** | **Dia da       Semana** |
 |:--------:|------------------------------------------------------------|---------|:-----------------------:|
 |     1    | **Apresentação**                                           | 05/ago  |           Seg           |
-|          | - [Apresentação e Ementa](https://github.com/Rogerio-mack/data-engineering/tree/main/Aula_01) | | |
+|          | - [Apresentação e Ementa](https://github.com/Rogerio-mack/data-engineering/tree/main/Aula_01) | | 
+|          | - [Incrições na plafaforma Google Cloudskillsboost](https://github.com/Rogerio-mack/data-engineering/blob/main/Aula_02/cloudskillsboost.md) | | |
 |     2    | **Engenharia de Dados**                                    | 07/ago  |           Qua           |
 |          | - [Fundamentos of Data Engineering](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A02_2.ipynb) | | |
 |          | - [Pandas: Easy EDA, grandes arquivos e pipeline](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A_02_PandasPipe.ipynb) | | |
