@@ -46,7 +46,9 @@ Rogério de Oliveira
 |     4    | LAB                                                        | 19/ago  |           Seg           |
 |          | - [Lab: EDA FOSP](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A3_04EDA_Lab.ipynb) | | |
 |          | **Coleta > Armazenamento**                                 |         |                         |
-|     5    | API, Web Scrapping, Streaming                              | 21/ago  |           Qua           |
+|     5    | API, Web Scraping, Streaming                              | 21/ago  |           Qua           |
+|          | - [Scraping](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A05_WebScraping.ipynb) | | |
+|          | - [APIs](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A05_WebAPIs.ipynb) | | |
 |     6    | SQL & NoSQL                                                | 28/ago  |           Qua           |
 |     7    | LAB                                                        | 04/set  |           Qua           |
 |          | **Armazenamento > Processamento**                          |         |                         |
