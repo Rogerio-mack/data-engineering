@@ -50,6 +50,8 @@ Rogério de Oliveira
 |          | - [Scraping](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A05_WebScraping.ipynb) | | |
 |          | - [APIs](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A05_WebAPIs.ipynb) | | |
 |     6    | SQL & NoSQL                                                | 28/ago  |           Qua           |
+|          | - [SQL & NoSQL](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A05_SQL_NoSQL.ipynb) | | |
+|          | - [MongoDB](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A05_MongoDB.ipynb) | | |
 |     7    | LAB                                                        | 04/set  |           Qua           |
 |          | **Armazenamento > Processamento**                          |         |                         |
 |     9    | Files, HDFS, Hadoop                                        | 11/set  |           Qua           |
