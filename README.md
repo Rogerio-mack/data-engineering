@@ -53,6 +53,7 @@ Rogério de Oliveira
 |          | - [SQL & NoSQL](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A05_SQL_NoSQL.ipynb) | | |
 |          | - [MongoDB](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/A05_MongoDB.ipynb) | | |
 |     7    | LAB                                                        | 04/set  |           Qua           |
+|          | - [Lab: Mongodb, pymongo & Grafana](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/aula07_pymongo_grafana.ipynb) | | |
 |          | **Armazenamento > Processamento**                          |         |                         |
 |     9    | Files, HDFS, Hadoop                                        | 11/set  |           Qua           |
 |    10    | Docker, Pipelines                                          | 16/set  |           Seg           |
