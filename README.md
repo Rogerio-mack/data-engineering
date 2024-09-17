@@ -56,10 +56,11 @@ Rogério de Oliveira
 |          | - [Lab: Mongodb, pymongo & Grafana](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/aula07_pymongo_grafana.ipynb) | | |
 |          | **Armazenamento > Processamento**                          |         |                         |
 |     9    | Files, HDFS, Hadoop                                        | 11/set  |           Qua           |
-|    10    | Docker, Pipelines                                          | 16/set  |           Seg           |
-|    11    | LAB                                                        | 18/set  |           Qua           |
+|          | - [Files, HDFS, Hadoop, Spark](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/Aula_08.ipynb) | | |
+|    10    | Elastic Search & Kibana                                    | 18/set  |           Qua           |
+|    11    | LAB                                                        | 25/set  |           Qua           |
 |          | **Projeto**                                                |         |                         |
-|    13    | EXTRA: ML pipeline, imagens ou texto, observabilidade      | 05/set  |           Qua           |
+|    13    | EXTRA: imagens ou texto OU Projetos?                       | 30/set  |           Seg           |
 |    14    | Apresentações                                              | 02/out  |           Qua           |
 
 
