@@ -58,7 +58,7 @@ Rogério de Oliveira
 |     9    | Files, HDFS, Hadoop                                        | 11/set  |           Qua           |
 |          | - [Files, HDFS, Hadoop, Spark](https://colab.research.google.com/github/Rogerio-mack/data-engineering/blob/main/Aula_08.ipynb) | | |
 |    10    | ElasticSearch & Kibana                                    | 18/set  |           Qua           |
-|          | - [ElasticSearch workshop]() | | |
+|          | - [ElasticSearch workshop](https://github.com/jcampolim/wtt-elasticsearch) | | |
 |          | - [ElasticSearch, sample projeto Julia Campolim](https://github.com/jcampolim/iniciacao-tecnologica) | | |
 |          | - [ElasticSearch + ChatGPT + Streamlit](https://github.com/Rogerio-mack/data-engineering/blob/main/Elastic_with_ChatGPT.py) | | |
 |    11    | LAB                                                        | 25/set  |           Qua           |
