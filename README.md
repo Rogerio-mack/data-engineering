@@ -60,8 +60,8 @@ Rogério de Oliveira
 |    10    | ElasticSearch & Kibana                                    | 18/set  |           Qua           |
 |          | - [ElasticSearch workshop](https://github.com/jcampolim/wtt-elasticsearch) | | |
 |          | - [ElasticSearch, sample projeto Julia Campolim](https://github.com/jcampolim/iniciacao-tecnologica) | | |
-|          | - [ElasticSearch + ChatGPT + Streamlit](https://github.com/Rogerio-mack/data-engineering/blob/main/Elastic_with_ChatGPT.py) | | |
-|    11    | LAB                                                        | 25/set  |           Qua           |
+|          | - [ElasticSearch + ChatGPT + Streamlit](https://github.com/Rogerio-mack/workshop-elastic) | | |
+|    11    | LAB                                                        | 25/set  |           Qua           |   
 |          | **Projeto**                                                |         |                         |
 |    13    | EXTRA: imagens ou texto OU Projetos?                       | 30/set  |           Seg           |
 |    14    | Apresentações                                              | 02/out  |           Qua           |
