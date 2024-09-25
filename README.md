@@ -62,6 +62,8 @@ Rogério de Oliveira
 |          | - [ElasticSearch, sample projeto Julia Campolim](https://github.com/jcampolim/iniciacao-tecnologica) | | |
 |          | - [ElasticSearch + ChatGPT + Streamlit](https://github.com/Rogerio-mack/workshop-elastic) | | |
 |    11    | Projeto                                                    | 25/set  |           Qua           |   
+|          | - [templates SBC para o artigo](https://www.sbc.org.br/documentosinstitucionais/#publicacoes) | | |
+|          | - exemplos de Projetos GitHub: [Exemplo 1](https://github.com/saic-fi/Bayesian-Prompt-Learning/tree/main) [Exemplo 2](https://github.com/jcampolim/iniciacao-tecnologica) [Exemplo 2](https://github.com/open-vlf) |||
 |          | **Projeto**                                                |         |                         |
 |    13    | LAB                                                        | 30/set  |           Seg           |
 |    14    | Apresentações                                              | 02/out  |           Qua           |
