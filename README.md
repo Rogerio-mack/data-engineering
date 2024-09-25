@@ -61,9 +61,9 @@ Rogério de Oliveira
 |          | - [ElasticSearch workshop](https://github.com/jcampolim/wtt-elasticsearch) | | |
 |          | - [ElasticSearch, sample projeto Julia Campolim](https://github.com/jcampolim/iniciacao-tecnologica) | | |
 |          | - [ElasticSearch + ChatGPT + Streamlit](https://github.com/Rogerio-mack/workshop-elastic) | | |
-|    11    | LAB                                                        | 25/set  |           Qua           |   
+|    11    | Projeto                                                    | 25/set  |           Qua           |   
 |          | **Projeto**                                                |         |                         |
-|    13    | EXTRA: imagens ou texto OU Projetos?                       | 30/set  |           Seg           |
+|    13    | LAB                                                        | 30/set  |           Seg           |
 |    14    | Apresentações                                              | 02/out  |           Qua           |
 
 
