@@ -65,7 +65,9 @@ Rogério de Oliveira
 |          | - [templates SBC para o artigo](https://www.sbc.org.br/documentosinstitucionais/#publicacoes), exemplo com Python code no texto, [aqui](https://github.com/Rogerio-mack/data-engineering/raw/refs/heads/main/main_sbc_plus.tex). | | |
 |          | - exemplos de Projetos GitHub: [Exemplo 1](https://github.com/saic-fi/Bayesian-Prompt-Learning/tree/main) [Exemplo 2](https://github.com/jcampolim/iniciacao-tecnologica) [Exemplo 3](https://github.com/open-vlf) |||
 |    13    | LAB                                                        | 30/set  |           Seg           |
-|    14    | Apresentações                                              | 02/out  |           Qua           |
+|          | - [Dataproc: Qwik Start - Console](https://www.cloudskillsboost.google/focuses/586?parent=catalog), Spark on Google Cloud | | |
+|          | - [Creating a Streaming Data Pipeline With Apache Kafka](https://www.cloudskillsboost.google/focuses/11809?parent=catalog), Streaming and Kafka on Google Cloud | | |
+|    14    | Apresentações dos Projetos, end course                     | 02/out  |           Qua           |
 
 
 
