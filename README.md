@@ -67,6 +67,8 @@ Rogério de Oliveira
 |    13    | LAB                                                        | 30/set  |           Seg           |
 |          | - [Dataproc: Qwik Start - Console](https://www.cloudskillsboost.google/focuses/586?parent=catalog), Spark on Google Cloud | | |
 |          | - [Creating a Streaming Data Pipeline With Apache Kafka](https://www.cloudskillsboost.google/focuses/11809?parent=catalog), Streaming and Kafka on Google Cloud | | |
+|          | *Home Lab*, escolha apenas 1, entrega até **06.10**        |         |                         |
+|          | - [Streaming Data to Bigtable](https://www.cloudskillsboost.google/focuses/92498?parent=catalog) OU [Building Realtime Pipelines in Cloud Data Fusion](https://www.cloudskillsboost.google/focuses/12365?parent=catalog) OU [Creating a Data Transformation Pipeline with Cloud Dataprep](https://www.cloudskillsboost.google/focuses/4415?parent=catalog) | | |
 |    14    | Apresentações dos Projetos, end course                     | 02/out  |           Qua           |
 
 
