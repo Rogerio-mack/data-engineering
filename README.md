@@ -69,7 +69,8 @@ Rogério de Oliveira
 |          | - [Creating a Streaming Data Pipeline With Apache Kafka](https://www.cloudskillsboost.google/focuses/11809?parent=catalog), Streaming and Kafka on Google Cloud | | |
 |          | *Home Lab*, escolha apenas 1, entrega até **06.10**        |         |                         |
 |          | - [Streaming Data to Bigtable](https://www.cloudskillsboost.google/focuses/92498?parent=catalog) OU [Building Realtime Pipelines in Cloud Data Fusion](https://www.cloudskillsboost.google/focuses/12365?parent=catalog) OU [Creating a Data Transformation Pipeline with Cloud Dataprep](https://www.cloudskillsboost.google/focuses/4415?parent=catalog) | | |
-|    14    | Apresentações dos Projetos, end course                     | 02/out  |           Qua           |
+|    14    | Apresentações dos Projetos, *end course*, ;-)              | 02/out  |           Qua           |
+|          | [Avalie o curso](https://forms.gle/aLYZw28oxxRzp2ui6)      |||
 
 
 
