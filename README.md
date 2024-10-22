@@ -78,7 +78,6 @@ Rogério de Oliveira
 - [Projeto Finance - Coleta e Disponibilização de Dados Financeiros](https://github.com/z-fab/ppgca/tree/master/cav-dados/projeto-finance)
 - [Pra onde foi meu dinheiro?](https://github.com/rafaennes/coleta_projeto)
 - [Autism Data Project - Mackenzie](https://github.com/mack-ppgca-asd-data/Autism-Data-Project---Mackenzie-2024)
-- 
-- 
+
 
 
