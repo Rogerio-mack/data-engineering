@@ -73,5 +73,12 @@ Rogério de Oliveira
 |    14    | Apresentações dos Projetos, *end course*, ;-)              | 02/out  |           Qua           |
 |          | [Avalie o curso](https://forms.gle/aLYZw28oxxRzp2ui6)      |||
 
+# Projetos dos alunos
+
+- [Projeto Finance - Coleta e Disponibilização de Dados Financeiros](https://github.com/z-fab/ppgca/tree/master/cav-dados/projeto-finance)
+- [Pra onde foi meu dinheiro?](https://github.com/rafaennes/coleta_projeto)
+- [Autism Data Project - Mackenzie](https://github.com/mack-ppgca-asd-data/Autism-Data-Project---Mackenzie-2024)
+- 
+- 
 
 
